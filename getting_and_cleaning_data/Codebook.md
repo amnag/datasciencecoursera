@@ -1,6 +1,7 @@
 ### Sequential steps to produce output
 The following steps are used to produce the output table. These steps are used to
-document both the download and analysis scripts in datasciencecoursera/getting_and_cleaning_data/scripts:
+document both the download and analysis scripts in 
+datasciencecoursera/getting_and_cleaning_data/scripts
 -Downloading and extracting zip file
 -Loading required R packages
 -Preparing column names from features
