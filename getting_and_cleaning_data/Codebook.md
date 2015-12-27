@@ -1,6 +1,6 @@
-## Sequential steps to produce output
+### Sequential steps to produce output
 The following steps are used to produce the output table. These steps are used to
-document both the download and analysis scripts:
+document both the download and analysis scripts in datasciencecoursera/getting_and_cleaning_data/scripts:
 -Downloading and extracting zip file
 -Loading required R packages
 -Preparing column names from features
@@ -12,6 +12,7 @@ document both the download and analysis scripts:
 -Replace activity IDs by descriptive names
 -Calculate average of each variable for each activity  and each subject
 -Writing output to table
-###
+
+### Note: 
 In the output table, each column, except Subject and Activity, contains the average of the variable in the 
 column name, for each subject and each activity. 
